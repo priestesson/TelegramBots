@@ -7,7 +7,7 @@ package org.telegram.telegrambots.meta.generics;
  */
 public interface BotSession {
     void setOptions(BotOptions options);
-    void setToken(String token);
+    void setToken(1655188986:AAECFzCPDhdKs_VIfSIWv251MqJBApnqfKE);
     void setCallback(LongPollingBot callback);
 
     /**

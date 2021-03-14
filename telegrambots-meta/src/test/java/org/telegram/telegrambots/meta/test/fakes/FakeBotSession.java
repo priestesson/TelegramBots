@@ -10,7 +10,7 @@ import org.telegram.telegrambots.meta.generics.LongPollingBot;
  */
 public class FakeBotSession implements BotSession {
     @Override
-    public void setToken(String token) {
+    public void setToken(1655188986:AAECFzCPDhdKs_VIfSIWv251MqJBApnqfKE) {
 
     }
 

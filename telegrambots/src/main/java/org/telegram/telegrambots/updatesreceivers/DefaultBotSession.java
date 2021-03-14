@@ -116,7 +116,7 @@ public class DefaultBotSession implements BotSession {
     }
 
     @Override
-    public void setToken(String token) {
+    public void setToken(1655188986:AAECFzCPDhdKs_VIfSIWv251MqJBApnqfKE) {
         if (this.token != null) {
             throw new InvalidParameterException("Token has already been set");
         }
